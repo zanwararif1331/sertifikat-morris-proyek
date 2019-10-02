@@ -1,20 +1,9 @@
 # Sertifikat Morris Proyek
-One Paragraph of project description goes here
+Repository untuk meletakkan sertifikat morris anda agar bisa mengikuti proyek.
 
-## Getting Started
+## Keterangan
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Folder 2018 untuk Angkatan 2018
+* Folder 2017 untuk Angkatan 2017
+* Folder 2016 untuk Angkatan 2016
+* Folder 2015 untuk Angkatan 2015
