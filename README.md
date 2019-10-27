@@ -9,3 +9,4 @@ Repository ini digunakan untuk meletakkan sertifikat morris anda agar bisa mengi
 * Folder 2015 untuk Angkatan 2015
 
 * Format : npm.png (harus ekstensi .png)
+* Contoh : 1174000.png
