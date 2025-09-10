@@ -1,5 +1,5 @@
 # Sertifikat Morris Proyek
-Repository untuk meletakkan sertifikat morris anda agar bisa mengikuti proyek.
+Repository ini digunakan untuk meletakkan sertifikat morris anda agar bisa mengikuti proyek.
 
 ## Keterangan
 
@@ -7,3 +7,6 @@ Repository untuk meletakkan sertifikat morris anda agar bisa mengikuti proyek.
 * Folder 2017 untuk Angkatan 2017
 * Folder 2016 untuk Angkatan 2016
 * Folder 2015 untuk Angkatan 2015
+
+* Format : npm.png (harus ekstensi .png)
+* Contoh : 1174000.png
